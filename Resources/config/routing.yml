@@ -1,0 +1,3 @@
+be_adopt_local_community_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: BeAdoptLocalCommunityBundle:Default:index }
